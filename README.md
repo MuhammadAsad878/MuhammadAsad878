@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @MuhammadAsad878
 
-- 👀 I’m interested in Full-Stack Development, Cloud Computing, DevOps, and AI.
-- 🌱 I’m currently learning Kubernetes, Microservices, and NLP for smarter applications.
+- 👀 I’m interested in Full-Stack Development, and AI.
+- 🌱 I’m currently learning Advanced Web, Microservices, and NLP for smarter applications.
 - 💞️ I’m looking to collaborate on open-source projects, scalable web applications, and AI-integrated platforms.
 - 📫 How to reach me:  
   📧 muhammadasad4041@gmail.com  
@@ -13,7 +13,7 @@
 ### 🧠 Tech Stack I Work With
 
 **Languages:**  
-JavaScript (ES6+), Python, C#  
+JavaScript (ES6+), JAVA & C# ( Advanced OOP ), Python ( Fundamentals )
 
 **Frontend:**  
 HTML5, CSS3, Bootstrap, Tailwind CSS, React.js  
@@ -24,8 +24,8 @@ Node.js, Express.js, Django, .NET WinForms, REST APIs, GraphQL, Socket.io
 **Databases:**  
 MongoDB, PostgreSQL, MySQL, MSSQL  
 
-**DevOps & Tools:**  
-Docker, CI/CD Pipelines, GitHub Actions, Redis, Postman, Hopscotch, Git & GitHub  
+**Tools:**  
+GitHub Actions, Redis, Postman, Hopscotch, Git & GitHub, VS Code, Visual Studio
 
 ---
 
