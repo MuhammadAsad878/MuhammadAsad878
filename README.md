@@ -13,7 +13,7 @@
 ### 🧠 Tech Stack I Work With
 
 **Languages:**  
-JavaScript (ES6+), JAVA & C# ( Advanced OOP ), Python ( Fundamentals )
+JavaScript (ES6+), JAVA & C# ( Advanced OOP ), Python 
 
 **Frontend:**  
 HTML5, CSS3, Bootstrap, Tailwind CSS, React.js  
