@@ -16,7 +16,7 @@
 JavaScript (ES6+), JAVA & C# ( Advanced OOP ), Python 
 
 **Frontend:**  
-HTML5, CSS3, Bootstrap, Tailwind CSS, React.js  
+HTML5, CSS3, Bootstrap, Tailwind CSS, React.js, Next.js  
 
 **Backend:**  
 Node.js, Express.js, Django, .NET WinForms, REST APIs, GraphQL, Socket.io  
