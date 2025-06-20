@@ -6,26 +6,27 @@
 - 📫 How to reach me:  
   📧 muhammadasad4041@gmail.com  
   💼 [LinkedIn](https://www.linkedin.com/in/m-muhammad-asad)  
-  💻 [My Portfolio Projects](https://github.com/MuhammadAsad878)
+  💻 [My GitHub Projects](https://github.com/MuhammadAsad878)  
+  🌐 [My Portfolio Website](https://portfolio-eight-theta-96.vercel.app/)
 
 ---
 
 ### 🧠 Tech Stack I Work With
 
 **Languages:**  
-JavaScript (ES6+), JAVA & C# ( Advanced OOP ), Python 
+JavaScript (ES6+), JAVA & C# (Advanced OOP )  
 
 **Frontend:**  
 HTML5, CSS3, Bootstrap, Tailwind CSS, React.js, Next.js  
 
 **Backend:**  
-Node.js, Express.js, Django, .NET WinForms, REST APIs, GraphQL, Socket.io  
+Node.js, Express.js, ASP.NET MVC, REST APIs, GraphQL, Socket.io  
 
 **Databases:**  
-MongoDB, PostgreSQL, MySQL, MSSQL  
+MongoDB, MSSQL, Redis  
 
 **Tools:**  
-GitHub Actions, Redis, Postman, Hopscotch, Git & GitHub, VS Code, Visual Studio
+GitHub Actions, Redis, Postman, Hopscotch, Git & GitHub, VS Code, Visual Studio  
 
 ---
 
@@ -51,4 +52,4 @@ GitHub Actions, Redis, Postman, Hopscotch, Git & GitHub, VS Code, Visual Studio
 ---
 
 ### 😄 Pronouns: He/Him  
-### ⚡ Fun fact: I enjoy tech podcasts, puzzle games, and always stay curious about the next big thing in dev!  
+### ⚡ Fun fact: I enjoy tech podcasts, puzzle games, and always stay curious about the next big thing in dev!
