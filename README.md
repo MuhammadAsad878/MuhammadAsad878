@@ -59,7 +59,7 @@
   Windows Forms app in C# for campus communities to report, search, and manage lost items.
 
 * **🎁 GiftLink – IBM Capstone**  
-  A gift suggestion app featuring JWT auth & NLP-based sentiment analysis.
+  A gift suggestion app featuring JWT auth & NLP-based sentiment analysis
 
 ---
 
