@@ -82,7 +82,8 @@ Covers: React, Node.js, Cloud Native, Docker, Microservices, Serverless, Agile &
 
 ### 🙋‍♂️ About Me
 
-* 😄 Pronouns: He/Him  
+* 😄 Pronouns: He/Him
+*  Fast Learner, Passionate
 * 🎧 Love listening to tech podcasts  
 * 🧩 Puzzle solver and curious tech explorer  
 * 💡 Always exploring “what’s next” in software!
