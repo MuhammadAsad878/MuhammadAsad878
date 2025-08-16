@@ -6,17 +6,21 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=500&size=28&center=true&vCenter=true&width=600&height=60&duration=3000&pause=1000&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Innovative+Solutions;Turning+Ideas+into+Reality" />
 </div>
 
+---
+
+## 🌟 **About Me**
+
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Location-Pakistan-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/📍_Location-Pakistan-2C3E50?style=for-the-badge&logo=googlemaps&logoColor=white" />
       </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Available%20for-Remote%20Work-green?style=flat-square&logo=zoom&logoColor=white" alt="Remote Work" />
+      <td align="center" width="34%">
+        <img src="https://img.shields.io/badge/💼_Status-Available_for_Remote-27AE60?style=for-the-badge&logo=zoom&logoColor=white" />
       </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-orange?style=flat-square&logo=code&logoColor=white" alt="Focus" />
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🎯_Focus-Full_Stack_Development-E67E22?style=for-the-badge&logo=code&logoColor=white" />
       </td>
     </tr>
   </table>
@@ -30,46 +34,46 @@
   <br>
 </div>
 
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MuhammadAsad878&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/MuhammadAsad878?label=Followers&style=for-the-badge&color=764ba2" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/MuhammadAsad878?label=Stars&style=for-the-badge&color=667eea" alt="GitHub Stars" />
 </div>
 
-<br>
+---
 
-## 🤝 Let's Connect
+## 🤝 **Let's Connect**
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="200">
+      <td align="center" width="25%">
         <a href="mailto:muhammadasad4041@gmail.com">
-          <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
+          <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
         </a>
-        <br><sub>Business Inquiries</sub>
+        <br><br>
+        <sub><strong>📧 Business Inquiries</strong></sub>
       </td>
-      <td align="center" width="200">
+      <td align="center" width="25%">
         <a href="https://www.linkedin.com/in/m-muhammad-asad">
           <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
-        <br><sub>Professional Network</sub>
+        <br><br>
+        <sub><strong>🤝 Professional Network</strong></sub>
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="200">
+      <td align="center" width="25%">
         <a href="https://portfolio-eight-theta-96.vercel.app/">
           <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
         </a>
-        <br><sub>View My Work</sub>
+        <br><br>
+        <sub><strong>🌐 View My Work</strong></sub>
       </td>
-      <td align="center" width="200">
+      <td align="center" width="25%">
         <a href="https://github.com/MuhammadAsad878">
           <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
         </a>
-        <br><sub>Open Source Projects</sub>
+        <br><br>
+        <sub><strong>📂 Open Source Projects</strong></sub>
       </td>
     </tr>
   </table>
@@ -77,52 +81,52 @@
 
 ---
 
-## 🎯 Current Focus & Expertise
+## 🎯 **Current Focus & Expertise**
 
 <div align="center">
   <table>
     <tr>
       <td width="50%" align="center">
-        <h3>⚡ Building With</h3>
-        <p>
+        <h3>⚡ Tech Stack I'm Building With</h3>
+        <br>
+        <div align="center">
           <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Core" />
           <img src="https://img.shields.io/badge/Web%20API-68217A?style=flat-square&logo=swagger&logoColor=white" alt="Web API" />
-          <br>
           <img src="https://img.shields.io/badge/MVC-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="MVC" />
-          <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-          <br>
+          <br><br>
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-          <br>
           <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+          <br><br>
+          <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-          <br>
-          <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-          <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-          <br>
+          <br><br>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        </p>
+          <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+          <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+        </div>
       </td>
       <td width="50%" align="center">
-        <h3>🤝 Open for Collaboration</h3>
-        <p>
-          <strong>Enterprise Applications</strong><br>
-          <sub>.NET Core • Web APIs • SQL Server</sub>
-          <br><br>
-          <strong>AI-Powered Solutions</strong><br>
-          <sub>Python • Machine Learning • NLP • Smart Automation</sub>
-          <br><br>
-          <strong>Secure Authentication</strong><br>
-          <sub>JWT • OAuth • Role-based Access</sub>
-          <br><br>
-          <strong>Payment & API Integrations</strong><br>
-          <sub>Stripe • PayPal • Third-party APIs</sub>
-          <br><br>
-          <strong>SaaS Platforms</strong><br>
-          <sub>Scalable architecture • Modern UI/UX</sub>
-        </p>
-      </td>
-    </tr>
+        <h3>🤝 Open for Collaboration On</h3>
+        <br>
+        <div align="left" style="padding-left: 20px;">
+          
+**🏢 Enterprise Applications**  
+<sub>_.NET Core • Web APIs • SQL Server • Scalable Architecture_</sub>
+
+**🤖 AI-Powered Solutions**  
+<sub>_Python • Machine Learning • NLP • Smart Automation_</sub>
+
+**🔐 Secure Authentication Systems**  
+<sub>_JWT • OAuth • Role-based Access Control_</sub>
+
+**💳 Payment & API Integrations**  
+<sub>_Stripe • PayPal • Third-party API Integrations_</sub>
+
+**☁️ SaaS Platform Development**  
+<sub>_Cloud-native • Microservices • Modern UI/UX_</sub>
+
+    
   </table>
 </div>
 
@@ -131,276 +135,332 @@
   <img src="https://img.shields.io/badge/💬%20Expertise%20in-.NET%20Core%20|%20Python%20|%20JWT%20Auth%20|%20AI%20Integration%20|%20Payment%20Systems-2C3E50?style=for-the-badge&labelColor=34495E" alt="Expertise" />
   <br><br>
   
-  **Ready to build secure, enterprise applications with AI integration and seamless payment solutions**
+  **🚀 Ready to build secure, enterprise applications with AI integration and seamless payment solutions**
 </div>
 
-## 🛠️ Technology Stack
+---
+
+## 🛠️ **Technology Stack**
 
 <div align="center">
 
-### Core Languages
+### **💻 Core Programming Languages**
 <table>
 <tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
-<br><strong>C#</strong>
-<br><sub>.NET Core</sub>
+<td align="center" width="200">
+<img src="https://skillicons.dev/icons?i=cs" width="60" height="60" alt="C#" />
+<br><br><strong>C# & .NET Core</strong>
+<br><sub>Enterprise Applications</sub>
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br><strong>JavaScript</strong>
-<br><sub>ES6+</sub>
+<td align="center" width="200">
+<img src="https://skillicons.dev/icons?i=js" width="60" height="60" alt="JavaScript" />
+<br><br><strong>JavaScript (ES6+)</strong>
+<br><sub>Modern Web Development</sub>
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br><strong>Python</strong>
-<br><sub>Data Science / AI</sub>
+<td align="center" width="200">
+<img src="https://skillicons.dev/icons?i=python" width="60" height="60" alt="Python" />
+<br><br><strong>Python</strong>
+<br><sub>AI/ML & Data Science</sub>
 </td>
 </tr>
 </table>
 
 ---
 
-### Frontend Development
+### **🎨 Frontend Development**
 <table>
 <tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
-<br><strong>React</strong>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" />
+<br><br><strong>React</strong>
 </td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" />
-<br><strong>Next.js</strong>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js" />
+<br><br><strong>Next.js</strong>
 </td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
-<br><strong>HTML5</strong>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5" />
+<br><br><strong>HTML5</strong>
 </td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" />
-<br><strong>CSS3</strong>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3" />
+<br><br><strong>CSS3</strong>
 </td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" />
-<br><strong>Tailwind</strong>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind" />
+<br><br><strong>Tailwind CSS</strong>
 </td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap" />
-<br><strong>Bootstrap</strong>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="Bootstrap" />
+<br><br><strong>Bootstrap</strong>
 </td>
 </tr>
 </table>
 
-### Backend & APIs
+---
+
+### **⚙️ Backend & API Development**
 <table>
 <tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
-<br><strong>Node.js</strong>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" />
+<br><br><strong>Node.js</strong>
 </td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" />
-<br><strong>Express</strong>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express" />
+<br><br><strong>Express.js</strong>
 </td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=dotnet" width="40" height="40" alt=".NET" />
-<br><strong>.NET</strong>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50" alt=".NET" />
+<br><br><strong>.NET Core</strong>
 </td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" alt="GraphQL" />
-<br><strong>GraphQL</strong>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=graphql" width="50" height="50" alt="GraphQL" />
+<br><br><strong>GraphQL</strong>
 </td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40" height="40" alt="Socket.io" />
-<br><strong>Socket.io</strong>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="50" height="50" alt="Socket.io" />
+<br><br><strong>Socket.io</strong>
 </td>
 </tr>
 </table>
 
-### Database & Tools
+---
+
+### **🗄️ Database & Development Tools**
 <table>
 <tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
-<br><strong>MongoDB</strong>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" />
+<br><br><strong>MongoDB</strong>
 </td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server" />
-<br><strong>SQL Server</strong>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" alt="SQL Server" />
+<br><br><strong>SQL Server</strong>
 </td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=redis" width="40" height="40" alt="Redis" />
-<br><strong>Redis</strong>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=redis" width="50" height="50" alt="Redis" />
+<br><br><strong>Redis</strong>
 </td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" />
-<br><strong>VS Code</strong>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code" />
+<br><br><strong>VS Code</strong>
 </td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
-<br><strong>Git</strong>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
+<br><br><strong>Git & GitHub</strong>
 </td>
 </tr>
 </table>
 
-</div>
-
-## 🏆 Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <div align="center">
-          <h3>🏡 HomeEase - Real Estate Platform</h3>
-          <p><em>Full-stack property management solution</em></p>
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-          <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-          <br>
-          <img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" alt="Mapbox" />
-          <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
-          <br><br>
-          <a href="https://mern-final-project-production.up.railway.app/">
-            <img src="https://img.shields.io/badge/🚀%20Live%20Demo-FF6B6B?style=for-the-badge&logoColor=white" alt="Live Demo" />
-          </a>
-        </div>
-      </td>
-      <td width="50%" valign="top">
-        <div align="center">
-          <h3>💬 Real-time Chat Application</h3>
-          <p><em>Modern messaging platform with live communication</em></p>
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-          <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io" />
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-          <br><br><br>
-          <a href="https://github.com/MuhammadAsad878/realtime-group-chat-application-backend.git">
-            <img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
-          </a>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <div align="center">
-          <h3>👟 Shoe E-Commerce Store</h3>
-          <p><em>Complete online shopping solution</em></p>
-          <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-          <br><br><br>
-          <a href="https://github.com/MuhammadAsad878/Django-Based-Ecommerce-Shoes-Store.git">
-            <img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
-          </a>
-        </div>
-      </td>
-      <td width="50%" valign="top">
-        <div align="center">
-          <h3>📱 Campus Lost & Found</h3>
-          <p><em>Desktop application for campus community</em></p>
-          <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-          <img src="https://img.shields.io/badge/Windows%20Forms-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows Forms" />
-          <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-          <br><br><br>
-          <a href="https://github.com/MuhammadAsad878/CSharp-Based-Campus-Lost-and-Found-Desktop-Application.git">
-            <img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
-          </a>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <div align="center">
-          <h3>🎁 GiftLink - AI-Powered Platform</h3>
-          <p><em>IBM Capstone Project - Intelligent gift recommendation system</em></p>
-          <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-          <img src="https://img.shields.io/badge/NLP-4285F4?style=flat-square&logo=google&logoColor=white" alt="NLP" />
-          <img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=flat-square&logo=ibm&logoColor=white" alt="IBM Cloud" />
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-          <br><br>
-          <img src="https://img.shields.io/badge/🏆%20IBM%20Capstone%20Project-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Capstone" />
-        </div>
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
 
-## 🎓 Professional Certifications
+## 🏆 **Featured Projects**
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="200">
-        <a href="https://www.credly.com/badges/a5ccad10-5976-4bc3-8469-628cc4241e2f/public_url">
-          <img width="100" height="100" alt="IBM Full-Stack JavaScript Developer Professional Certificate" src="https://github.com/user-attachments/assets/da3f2e5f-0566-4160-96eb-1c9372621fce" />
-        </a>          
-        <br><br>
-        <strong>IBM Full-Stack JavaScript Developer</strong>
-        <br><sub>Professional Certificate</sub>
-      </td>
-      <td align="left" width="400">
-        <h4>🔧 Specialization Coverage</h4>
-        <ul>
-          <li><strong>Frontend:</strong> React.js, JavaScript ES6+, HTML5/CSS3</li>
-          <li><strong>Backend:</strong> Node.js, Express.js, RESTful APIs</li>
-          <li><strong>Database:</strong> MongoDB, NoSQL Database Design</li>
-          <li><strong>DevOps:</strong> Docker, Microservices Architecture</li>
-          <li><strong>Cloud:</strong> Cloud Native Development, IBM Cloud</li>
-          <li><strong>CI/CD:</strong> GitHub Actions, Automated Deployment</li>
-        </ul>
-      </td>
-      <td align="center" width="150">
-        <a href="https://coursera.org/share/e1320253480447226141599a0f35eeef">
-          <img src="https://img.shields.io/badge/View%20Certificate-FFFFFF?style=for-the-badge&logo=ibm&logoColor=052FAD&labelColor=000000&color=FFFFFF" alt="View Certificate" />
-        </a>
-        <br><br>
-        <img src="https://img.shields.io/badge/Verified-28a745?style=flat&logo=verified&logoColor=white" alt="Verified" />
-      </td>
-    </tr>
-  </table>
-</div>
 
-<div align="center">
-  <br>
-  <sub><strong>📚 Continuously expanding knowledge through hands-on projects and industry certifications</strong></sub>
-</div>
+### **🌟 Highlighted Portfolio Projects**
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MuhammadAsad878&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAsad878&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAsad878&theme=tokyonight&hide_border=true" width="60%" />
-</div>
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://img.shields.io/badge/🏡%20HomeEase-Real_Estate_Platform-FF6B6B?style=for-the-badge&logoColor=white" />
+<br><br>
+<p><em><strong>Full-stack property management solution with interactive maps</strong></em></p>
+<br>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<br>
+<img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" alt="Mapbox" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+<br><br>
+<a href="https://mern-final-project-production.up.railway.app/">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-4CAF50?style=for-the-badge&logoColor=white" alt="Live Demo" />
+</a>
+</td>
+<td width="50%" align="center">
+<img src="https://img.shields.io/badge/💬%20Real--time_Chat-Messaging_Platform-2196F3?style=for-the-badge&logoColor=white" />
+<br><br>
+<p><em><strong>Modern messaging platform with live communication features</strong></em></p>
+<br>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<br><br><br>
+<a href="https://github.com/MuhammadAsad878/realtime-group-chat-application-backend.git">
+<img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+</a>
+</td>
+</tr>
+</table>
 
 <br>
 
-## 💼 Professional Highlights
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://img.shields.io/badge/👟%20Shoe_Store-E--Commerce_Platform-9C27B0?style=for-the-badge&logoColor=white" />
+<br><br>
+<p><em><strong>Complete online shopping solution with payment integration</strong></em></p>
+<br>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<br><br><br>
+<a href="https://github.com/MuhammadAsad878/Django-Based-Ecommerce-Shoes-Store.git">
+<img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+</a>
+</td>
+<td width="50%" align="center">
+<img src="https://img.shields.io/badge/📱%20Campus_Lost_&_Found-Desktop_Application-FF9800?style=for-the-badge&logoColor=white" />
+<br><br>
+<p><em><strong>Desktop application for campus community management</strong></em></p>
+<br>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/Windows%20Forms-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows Forms" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+<br><br><br>
+<a href="https://github.com/MuhammadAsad878/CSharp-Based-Campus-Lost-and-Found-Desktop-Application.git">
+<img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+</a>
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+<img src="https://img.shields.io/badge/🎁%20GiftLink-AI--Powered_Recommendation_Platform-E74C3C?style=for-the-badge&logoColor=white" />
+<br><br>
+<p><em><strong>🏆 IBM Capstone Project - Intelligent gift recommendation system with NLP</strong></em></p>
+<br>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/NLP-4285F4?style=flat-square&logo=google&logoColor=white" alt="NLP" />
+<img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=flat-square&logo=ibm&logoColor=white" alt="IBM Cloud" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<br><br>
+<img src="https://img.shields.io/badge/🏆%20IBM%20Capstone%20Project-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Capstone" />
+</div>
+
+</div>
+
+---
+
+## 🎓 **Professional Certifications**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="250">
+        <br>
+        <a href="https://www.credly.com/badges/a5ccad10-5976-4bc3-8469-628cc4241e2f/public_url">
+          <img width="120" height="120" alt="IBM Full-Stack JavaScript Developer Professional Certificate" src="https://github.com/user-attachments/assets/da3f2e5f-0566-4160-96eb-1c9372621fce" />
+        </a>          
+        <br><br>
+        <strong>🏆 IBM Full-Stack JavaScript Developer</strong>
+        <br><sub><em>Professional Certificate</em></sub>
+        <br><br>
+        <a href="https://coursera.org/share/e1320253480447226141599a0f35eeef">
+          <img src="https://img.shields.io/badge/View%20Certificate-FFFFFF?style=for-the-badge&logo=ibm&logoColor=052FAD&labelColor=000000&color=052FAD" alt="View Certificate" />
+        </a>
+        <br><br>
+        <img src="https://img.shields.io/badge/✅%20Verified-28a745?style=flat&logo=verified&logoColor=white" alt="Verified" />
+      </td>
+      <td align="left" width="500">
+        <h3>🎯 Specialization Coverage</h3>
+        <br>
+        
+**🎨 Frontend Development**  
+_React.js, JavaScript ES6+, HTML5/CSS3, Responsive Design_
+
+**⚙️ Backend Development**  
+_Node.js, Express.js, RESTful APIs, Server-side Programming_
+
+**🗄️ Database Management**  
+_MongoDB, NoSQL Database Design, Data Modeling_
+
+**☁️ Cloud & DevOps**  
+_Docker, Microservices Architecture, IBM Cloud Platform_
+
+**🔄 CI/CD Pipeline**  
+_GitHub Actions, Automated Testing, Deployment Strategies_
+
+**🤖 Emerging Technologies**  
+_Cloud Native Development, API Integration, Modern Web Standards_
+
+   
+  </table>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://img.shields.io/badge/📚%20Continuously%20expanding%20knowledge%20through%20hands--on%20projects%20and%20industry%20certifications-34495E?style=for-the-badge&labelColor=2C3E50" alt="Continuous Learning" />
+</div>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAsad878&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAsad878&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAsad878&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=ff7b72&dates=7d8590" alt="GitHub Streak" />
+</div>
+
+---
+
+## 💼 **Professional Highlights**
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Problem%20Solving-4CAF50?style=for-the-badge&logoColor=white" alt="Problem Solving" />
-        <br><sub><strong>Complex system architecture</strong><br>and technical challenges</sub>
+        <br>
+        <img src="https://img.shields.io/badge/🧠%20Problem%20Solving-4CAF50?style=for-the-badge&logoColor=white" alt="Problem Solving" />
+        <br><br>
+        <strong>Complex System Architecture</strong>
+        <br><sub><em>Designing scalable solutions for enterprise-level applications</em></sub>
+        <br><br>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Continuous%20Learning-2196F3?style=for-the-badge&logoColor=white" alt="Continuous Learning" />
-        <br><sub><strong>Stay updated with</strong><br>emerging technologies</sub>
+        <br>
+        <img src="https://img.shields.io/badge/📚%20Continuous%20Learning-2196F3?style=for-the-badge&logoColor=white" alt="Continuous Learning" />
+        <br><br>
+        <strong>Technology Innovation</strong>
+        <br><sub><em>Staying updated with emerging technologies and industry trends</em></sub>
+        <br><br>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Team%20Collaboration-FF9800?style=for-the-badge&logoColor=white" alt="Team Collaboration" />
-        <br><sub><strong>Cross-functional teamwork</strong><br>and knowledge sharing</sub>
+        <br>
+        <img src="https://img.shields.io/badge/🤝%20Team%20Collaboration-FF9800?style=for-the-badge&logoColor=white" alt="Team Collaboration" />
+        <br><br>
+        <strong>Cross-functional Teamwork</strong>
+        <br><sub><em>Effective communication and knowledge sharing across teams</em></sub>
+        <br><br>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Innovation%20Focus-9C27B0?style=for-the-badge&logoColor=white" alt="Innovation Focus" />
-        <br><sub><strong>Implementing cutting-edge</strong><br>solutions for real impact</sub>
+        <br>
+        <img src="https://img.shields.io/badge/🚀%20Innovation%20Focus-9C27B0?style=for-the-badge&logoColor=white" alt="Innovation Focus" />
+        <br><br>
+        <strong>Cutting-edge Solutions</strong>
+        <br><sub><em>Implementing innovative technologies for real-world impact</em></sub>
+        <br><br>
       </td>
     </tr>
   </table>
@@ -411,12 +471,16 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <h4>🎯 Development Philosophy</h4>
-        <p><em>"Building scalable solutions that drive business growth<br>and create meaningful user experiences"</em></p>
+        <h3>🎯 Development Philosophy</h3>
+        <br>
+        <p><em>"Building scalable, maintainable solutions that drive business growth<br>and create meaningful user experiences through clean, efficient code."</em></p>
+        <br>
       </td>
       <td align="center" width="50%">
-        <h4>🚀 Impact & Results</h4>
-        <p><em>"Committed to delivering high-quality code<br>that solves real-world problems efficiently"</em></p>
+        <h3>🚀 Impact & Results</h3>
+        <br>
+        <p><em>"Committed to delivering high-quality, secure applications<br>that solve real-world problems with measurable business value."</em></p>
+        <br>
       </td>
     </tr>
   </table>
@@ -424,16 +488,21 @@
 
 <div align="center">
   <br>
-  <img src="https://img.shields.io/badge/💡%20Always%20ready%20to%20tackle%20new%20challenges%20and%20drive%20innovation-34495E?style=flat&labelColor=2C3E50&color=34495E" alt="Ready for challenges" />
+  <img src="https://img.shields.io/badge/💡%20Always%20ready%20to%20tackle%20new%20challenges%20and%20drive%20innovation%20through%20technology-34495E?style=for-the-badge&labelColor=2C3E50" alt="Ready for challenges" />
 </div>
 
 ---
 
 <div align="center">
+  <br>
   
-### 💫 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### 💫 *"The best error message is the one that never shows up."* – Thomas Fuchs
 
-**Thanks for visiting! Let's connect and build something amazing together! 🚀**
+<br>
+
+**🌟 Thanks for visiting! Let's connect and build something amazing together! 🚀**
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
