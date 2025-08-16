@@ -257,93 +257,75 @@
 
 ---
 
-## 🏆 **Featured Projects**
-
-<div align="center">
-
-### **🌟 Highlighted Portfolio Projects**
-
-<table>
-<tr>
-<td width="50%" align="center">
-<img src="https://img.shields.io/badge/🏡%20HomeEase-Real_Estate_Platform-FF6B6B?style=for-the-badge&logoColor=white" />
-<br><br>
-<p><em><strong>Full-stack property management solution with interactive maps</strong></em></p>
-<br>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<br>
-<img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" alt="Mapbox" />
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
-<br><br>
-<a href="https://mern-final-project-production.up.railway.app/">
-<img src="https://img.shields.io/badge/🚀%20Live%20Demo-4CAF50?style=for-the-badge&logoColor=white" alt="Live Demo" />
-</a>
-</td>
-<td width="50%" align="center">
-<img src="https://img.shields.io/badge/💬%20Real--time_Chat-Messaging_Platform-2196F3?style=for-the-badge&logoColor=white" />
-<br><br>
-<p><em><strong>Modern messaging platform with live communication features</strong></em></p>
-<br>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-<br><br><br>
-<a href="https://github.com/MuhammadAsad878/realtime-group-chat-application-backend.git">
-<img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
-</a>
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<td width="50%" align="center">
-<img src="https://img.shields.io/badge/👟%20Shoe_Store-E--Commerce_Platform-9C27B0?style=for-the-badge&logoColor=white" />
-<br><br>
-<p><em><strong>Complete online shopping solution with payment integration</strong></em></p>
-<br>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<br><br><br>
-<a href="https://github.com/MuhammadAsad878/Django-Based-Ecommerce-Shoes-Store.git">
-<img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
-</a>
-</td>
-<td width="50%" align="center">
-<img src="https://img.shields.io/badge/📱%20Campus_Lost_&_Found-Desktop_Application-FF9800?style=for-the-badge&logoColor=white" />
-<br><br>
-<p><em><strong>Desktop application for campus community management</strong></em></p>
-<br>
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/Windows%20Forms-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows Forms" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-<br><br><br>
-<a href="https://github.com/MuhammadAsad878/CSharp-Based-Campus-Lost-and-Found-Desktop-Application.git">
-<img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
-</a>
-</td>
-</tr>
-</table>
+# Featured Projects
 
 <br>
 
 <div align="center">
-<img src="https://img.shields.io/badge/🎁%20GiftLink-AI--Powered_Recommendation_Platform-E74C3C?style=for-the-badge&logoColor=white" />
-<br><br>
-<p><em><strong>🏆 IBM Capstone Project - Intelligent gift recommendation system with NLP</strong></em></p>
-<br>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-<img src="https://img.shields.io/badge/NLP-4285F4?style=flat-square&logo=google&logoColor=white" alt="NLP" />
-<img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=flat-square&logo=ibm&logoColor=white" alt="IBM Cloud" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<br><br>
-<img src="https://img.shields.io/badge/🏆%20IBM%20Capstone%20Project-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Capstone" />
+
+<!-- HomeEase -->
+<div style="margin: 24px 0; padding: 24px; border-radius: 12px; background: #fafafa; border: 1px solid #e5e5e5;">
+
+**🏠 HomeEase**
+
+Property rental platform with interactive maps
+
+`MERN Stack` `Mapbox` `Cloud Storage`
+
+[**Live Demo →**](https://mern-final-project-production.up.railway.app/)
+
+</div>
+
+<!-- ChatApp -->
+<div style="margin: 24px 0; padding: 24px; border-radius: 12px; background: #fafafa; border: 1px solid #e5e5e5;">
+
+**💬 Real-time Chat**
+
+Messaging platform with live communication
+
+`Next.js` `Socket.io` `MongoDB`
+
+[**View Code →**](https://github.com/MuhammadAsad878/realtime-group-chat-application-backend.git)
+
+</div>
+
+<!-- Shoe Store -->
+<div style="margin: 24px 0; padding: 24px; border-radius: 12px; background: #fafafa; border: 1px solid #e5e5e5;">
+
+**👟 Shoe Store**
+
+E-commerce platform with payment system
+
+`Django` `PostgreSQL` `Python`
+
+[**View Code →**](https://github.com/MuhammadAsad878/Django-Based-Ecommerce-Shoes-Store.git)
+
+</div>
+
+<!-- Campus App -->
+<div style="margin: 24px 0; padding: 24px; border-radius: 12px; background: #fafafa; border: 1px solid #e5e5e5;">
+
+**🎓 Campus Lost & Found**
+
+Desktop application for campus management
+
+`C#` `Windows Forms` `SQL Server`
+
+[**View Code →**](https://github.com/MuhammadAsad878/CSharp-Based-Campus-Lost-and-Found-Desktop-Application.git)
+
+</div>
+
+<!-- GiftLink - Featured -->
+<div style="margin: 32px 0; padding: 28px; border-radius: 12px; background: #f0f4ff; border: 2px solid #4f46e5;">
+
+**🏆 GiftLink AI** *IBM Capstone Project*
+
+AI-powered gift recommendation system
+
+`Python` `NLP` `Machine Learning` `IBM Cloud`
+
+*Award-winning capstone project*
+
 </div>
 
 </div>
