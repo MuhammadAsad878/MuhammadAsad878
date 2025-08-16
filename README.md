@@ -31,6 +31,13 @@
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MuhammadAsad878&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/MuhammadAsad878?label=Followers&style=for-the-badge&color=764ba2" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/MuhammadAsad878?label=Stars&style=for-the-badge&color=667eea" alt="GitHub Stars" />
+</div>
+
 <br>
 
 ## 🤝 Let's Connect
@@ -69,6 +76,7 @@
 </div>
 
 ---
+
 ## 🎯 Current Focus & Expertise
 
 <div align="center">
@@ -136,20 +144,18 @@
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
 <br><strong>C#</strong>
-<br><sub>.NET Core  </sub>
+<br><sub>.NET Core</sub>
 </td>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
 <br><strong>JavaScript</strong>
-<br><sub>ES6+ </sub>
+<br><sub>ES6+</sub>
 </td>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
 <br><strong>Python</strong>
-<br><sub>Data Science / AI </sub>
+<br><sub>Data Science / AI</sub>
 </td>
-
-
 </tr>
 </table>
 
@@ -237,11 +243,8 @@
 </tr>
 </table>
 
----
-
-
-
 </div>
+
 ## 🏆 Featured Projects
 
 <div align="center">
@@ -331,7 +334,9 @@
   <table>
     <tr>
       <td align="center" width="200">
-        <img src="https://images.credly.com/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/IBM-Badge-blue.png" width="80" height="80" alt="IBM Badge" />
+        <a href="https://www.credly.com/badges/a5ccad10-5976-4bc3-8469-628cc4241e2f/public_url">
+          <img width="100" height="100" alt="IBM Full-Stack JavaScript Developer Professional Certificate" src="https://github.com/user-attachments/assets/da3f2e5f-0566-4160-96eb-1c9372621fce" />
+        </a>          
         <br><br>
         <strong>IBM Full-Stack JavaScript Developer</strong>
         <br><sub>Professional Certificate</sub>
@@ -349,10 +354,10 @@
       </td>
       <td align="center" width="150">
         <a href="https://coursera.org/share/e1320253480447226141599a0f35eeef">
-          <img src="https://img.shields.io/badge/View%20Certificate-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="View Certificate" />
+          <img src="https://img.shields.io/badge/View%20Certificate-FFFFFF?style=for-the-badge&logo=ibm&logoColor=052FAD&labelColor=000000&color=FFFFFF" alt="View Certificate" />
         </a>
         <br><br>
-        <img src="https://img.shields.io/badge/Status-Verified-28a745?style=flat-square" alt="Verified" />
+        <img src="https://img.shields.io/badge/Verified-28a745?style=flat&logo=verified&logoColor=white" alt="Verified" />
       </td>
     </tr>
   </table>
@@ -374,19 +379,53 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAsad878&theme=tokyonight&hide_border=true" width="60%" />
 </div>
 
-<br/>
+<br>
 
-## 🌟 Fun Facts About Me
+## 💼 Professional Highlights
 
 <div align="center">
-  
-🧩 **Puzzle Solver** • 🎧 **Tech Podcast Enthusiast** • ⚡ **Fast Learner** • 🔍 **Curious Explorer**
-
-*"Always exploring what's next in software development!"*
-
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Problem%20Solving-4CAF50?style=for-the-badge&logoColor=white" alt="Problem Solving" />
+        <br><sub><strong>Complex system architecture</strong><br>and technical challenges</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Continuous%20Learning-2196F3?style=for-the-badge&logoColor=white" alt="Continuous Learning" />
+        <br><sub><strong>Stay updated with</strong><br>emerging technologies</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Team%20Collaboration-FF9800?style=for-the-badge&logoColor=white" alt="Team Collaboration" />
+        <br><sub><strong>Cross-functional teamwork</strong><br>and knowledge sharing</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Innovation%20Focus-9C27B0?style=for-the-badge&logoColor=white" alt="Innovation Focus" />
+        <br><sub><strong>Implementing cutting-edge</strong><br>solutions for real impact</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br/>
+<div align="center">
+  <br>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h4>🎯 Development Philosophy</h4>
+        <p><em>"Building scalable solutions that drive business growth<br>and create meaningful user experiences"</em></p>
+      </td>
+      <td align="center" width="50%">
+        <h4>🚀 Impact & Results</h4>
+        <p><em>"Committed to delivering high-quality code<br>that solves real-world problems efficiently"</em></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://img.shields.io/badge/💡%20Always%20ready%20to%20tackle%20new%20challenges%20and%20drive%20innovation-34495E?style=flat&labelColor=2C3E50&color=34495E" alt="Ready for challenges" />
+</div>
 
 ---
 
@@ -396,10 +435,6 @@
 
 **Thanks for visiting! Let's connect and build something amazing together! 🚀**
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadAsad878&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/MuhammadAsad878?label=Followers&style=for-the-badge&color=764ba2" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/MuhammadAsad878?label=Stars&style=for-the-badge&color=667eea" alt="GitHub Stars" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
