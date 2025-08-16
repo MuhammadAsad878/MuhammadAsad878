@@ -35,51 +35,129 @@
 
 ```javascript
 const asad = {
-    interests: ["Full-Stack Development", "Artificial Intelligence", "Cloud Computing"],
-    currentlyLearning: ["Advanced Web Architecture", "Microservices", "NLP"],
-    collaborateOn: ["Open Source Projects", "Scalable Web Apps", "AI Platforms"],
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
+    interests: ["Full-Stack Development", "Artificial Intelligence"],  
+    collaborateOn: ["Open Source Projects", "Scalable Web Apps", "AI Platforms"],  
 };
 ```
 
 <br/>
 
-## 🛠️ Tech Arsenal
+## 🛠️ Technology Stack
 
 <div align="center">
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+### Core Languages
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+<br><strong>C#</strong>
+<br><sub>.NET Core  </sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br><strong>JavaScript</strong>
+<br><sub>ES6+ </sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br><strong>Python</strong>
+<br><sub>Data Science / AI </sub>
+</td>
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ⚡ Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+</tr>
+</table>
 
-### 🗄️ Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
+
+### Frontend Development
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
+<br><strong>React</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" />
+<br><strong>Next.js</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+<br><strong>HTML5</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" />
+<br><strong>CSS3</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" />
+<br><strong>Tailwind</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap" />
+<br><strong>Bootstrap</strong>
+</td>
+</tr>
+</table>
+
+### Backend & APIs
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
+<br><strong>Node.js</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" />
+<br><strong>Express</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=dotnet" width="40" height="40" alt=".NET" />
+<br><strong>.NET</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" alt="GraphQL" />
+<br><strong>GraphQL</strong>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40" height="40" alt="Socket.io" />
+<br><strong>Socket.io</strong>
+</td>
+</tr>
+</table>
+
+### Database & Tools
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
+<br><strong>MongoDB</strong>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server" />
+<br><strong>SQL Server</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=redis" width="40" height="40" alt="Redis" />
+<br><strong>Redis</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" />
+<br><strong>VS Code</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+<br><strong>Git</strong>
+</td>
+</tr>
+</table>
+
+---
+
+
 
 </div>
-
-<br/>
-
 ## 🏆 Featured Projects
 
 <div align="center">
