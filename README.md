@@ -1,28 +1,28 @@
-<!-- Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Muhammad%20Asad&fontSize=45&fontColor=ffffff" alt="Header"/>
-</div>
+<!-- PROFILE HEADER -->
+<h1 align="center">👋 Hi, I'm Muhammad Asad</h1>
+<h3 align="center">
+Full Stack Engineer | .NET Core | MERN | Angular | React | C# | Node.js | JavaScript | TypeScript | Tailwind CSS
+</h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=500&size=24&center=true&vCenter=true&width=600&duration=3000&pause=1000&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Smart+%26+Scalable+Applications"/>
-</div>
+<p align="center">
+  <a href="https://www.calldevx.tech" target="_blank"><b>🌐 Portfolio</b></a> •
+  <a href="mailto:muhammadasad4041@gmail.com"><b>📧 Email</b></a> •
+  <a href="https://www.linkedin.com/in/m-muhammad-asad" target="_blank"><b>💼 LinkedIn</b></a>
+</p>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
 I’m **Muhammad Asad**, a **Full-Stack Developer** passionate about building secure, scalable, and user-friendly web applications.  
 My work bridges **backend architecture** and **modern UI development**, with a growing focus on **AI-powered solutions** and **automation**.
 
 💡 *Turning ideas into clean, maintainable, and high-performance software.*
 
-**Current Focus:**  
-- Full-Stack Development (.NET Core, React, Node.js)  
-- SaaS Platform Development & API Integrations  
-
-🌐 **Portfolio:** [www.calldevx.tech](https://www.calldevx.tech)  
-📧 **Email:** [muhammadasad4041@gmail.com](mailto:muhammadasad4041@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/m-muhammad-asad](https://www.linkedin.com/in/m-muhammad-asad)
+### 🔭 Current Focus:
+- Full-Stack Development (`.NET Core`, `React`, `Node.js`)
+- SaaS Platform Development & API Integrations
+- Building Modern Web Solutions for Businesses
 
 ---
 
@@ -30,12 +30,12 @@ My work bridges **backend architecture** and **modern UI development**, with a g
 
 <div align="center">
 
-| **Stack** | **Technologies** |
-|:-----------|:----------------|
-| **🟢 JavaScript / MERN Stack** | React, Next.js, Node.js, Express.js, MongoDB, Tailwind CSS, Bootstrap |
-| **⚙️ .NET Stack** | ASP.NET Core, .NET Core Web API, C#, Angular, SQL Server, Entity Framework, Dapper, Stored Procedures |
-| **🤖 AI / Machine Learning** | Python |
-| **🧰 Tools & Utilities** | Git, GitHub, VS Code, Visual Studio, Postman, Swagger, Docker |
+| **Category** | **Technologies** |
+|:--------------|:----------------|
+| 🟢 **JavaScript / MERN Stack** | React, Next.js, Node.js, Express.js, MongoDB, Tailwind CSS, Bootstrap |
+| ⚙️ **.NET Stack** | ASP.NET Core, .NET Core Web API, C#, Angular, SQL Server, Entity Framework, Dapper, Stored Procedures |
+| 🤖 **AI / Machine Learning** | Python |
+| 🧰 **Tools & Utilities** | Git, GitHub, VS Code, Visual Studio, Postman, Swagger, Docker |
 
 </div>
 
@@ -43,38 +43,28 @@ My work bridges **backend architecture** and **modern UI development**, with a g
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### 🏠 **HomeEase**
+> Property rental platform with interactive maps and location-based listings.  
+**Tech:** MERN Stack, Mapbox, Cloud Storage  
 
-### 🏠 [HomeEase](https://mern-final-project-production.up.railway.app/)
-Property rental platform with interactive maps.  
-**Tech:** MERN Stack, Mapbox, Cloud Storage
+### 💬 **Real-time Chat App**
+> Modern chat app supporting instant messaging and group chats.  
+**Tech:** Next.js, Socket.io, MongoDB  
 
----
+### 👟 **Shoe Store**
+> E-commerce system with payment integration and admin dashboard.  
+**Tech:** Django, PostgreSQL, Python  
 
-### 💬 [Real-time Chat App](https://github.com/MuhammadAsad878/realtime-group-chat-application-backend.git)
-Modern chat app supporting instant messaging.  
-**Tech:** Next.js, Socket.io, MongoDB
-
----
-
-### 👟 [Shoe Store](https://github.com/MuhammadAsad878/Django-Based-Ecommerce-Shoes-Store.git)
-E-commerce system with payment integration.  
-**Tech:** Django, PostgreSQL, Python
-
----
-
-### 🏆 GiftLink AI – *IBM Capstone Project*
-AI-powered gift recommendation system.  
-**Tech:** Python, NLP, IBM Cloud • *Award-winning project*
-
-</div>
+### 🏆 **GiftLink AI – IBM Capstone Project**
+> AI-powered gift recommendation system built as part of IBM Skills Network.  
+**Tech:** Python, NLP, IBM Cloud • 🥇 *Award-winning project*
 
 ---
 
 ## 🎓 Certifications
 
-- 🧩 **IBM Full-Stack JavaScript Developer (Professional Certificate)**  
-  [View Certificate →](https://coursera.org/share/e1320253480447226141599a0f35eeef)
+- 🧩 **IBM Full-Stack JavaScript Developer** *(Professional Certificate)*  
+  [View Certificate →](#)
 
 ---
 
@@ -88,29 +78,39 @@ I value **clean code**, **clarity**, and **continuous improvement** — whether 
 
 ## 📞 Let’s Work Together!
 
-<div align="center">
-
 ✨ Looking to build something amazing? ✨  
-Let’s turn your ideas into reality — whether it’s a modern web app, an AI solution, or a scalable SaaS platform.
+Let’s turn your ideas into reality — whether it’s a **modern web app**, an **AI solution**, or a **scalable SaaS platform**.
 
-<br/>
-
-<a href="https://www.calldevx.tech" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-764ba2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Portfolio"/>
-</a>
-
-<a href="mailto:muhammadasad4041@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/✉️_Contact_Now-667eea?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
-</a>
-
-<a href="https://www.linkedin.com/in/m-muhammad-asad" target="_blank">
-  <img src="https://img.shields.io/badge/💼_Get_a_Quote-6c63ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://www.calldevx.tech" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-0A66C2?style=for-the-badge" />
+  </a>
+  <a href="mailto:muhammadasad4041@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/m-muhammad-asad" target="_blank">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer"/>
-</div>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAsad878&show_icons=true&theme=radical" alt="Asad's GitHub Stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAsad878&theme=radical" alt="GitHub Streak" height="160" />
+</p>
+
+---
+
+## 🏅 Achievements
+
+- 🥇 **IBM GiftLink AI Capstone** — Award-winning AI project  
+- ⚡ **Quickdraw & Pull Shark** badges on GitHub  
+- 💬 **Built 10+ full-stack apps** (MERN, .NET, Django)
+- 🌱 Always exploring **AI + Web synergy**
+
+---
+
+<p align="center">⭐️ From <a href="https://github.com/MuhammadAsad878">MuhammadAsad878</a></p>
