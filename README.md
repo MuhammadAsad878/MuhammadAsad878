@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.calldevx.tech" target="_blank">
+  <a href="https://masad.dev" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-0A66C2?style=for-the-badge&color=2b3137" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/m-muhammad-asad" target="_blank">
@@ -36,14 +36,14 @@ I am a **Full-Stack Developer** who bridges the gap between robust backend archi
 
 Whether you are an agency looking for an overflow developer or a business needing a complete solution, here is how I can help. *(Click to learn more)*
 
-* 🌐 **[Full Website Build & Redesign](https://www.calldevx.tech/services/website-build-redesign)** — End-to-end development of modern, responsive web applications.
-* ⚙️ **[Backend & API Integrations](https://www.calldevx.tech/services/backend-api-integrations)** — Secure, scalable RESTful APIs using .NET Core and Node.js.
-* 🎨 **[Frontend UI/UX Development](https://www.calldevx.tech/services/frontend-ui-ux)** — Pixel-perfect, high-performance interfaces using React and Angular.
-* ⚡ **[Website Fixes & Optimization](https://www.calldevx.tech/services/fix-optimize-website)** — Resolving bugs, refactoring legacy code, and improving PageSpeed scores.
-* 🗄️ **[Database Design & Architecture](https://www.calldevx.tech/services/database-design)** — Optimized data modeling using SQL Server, PostgreSQL, and MongoDB.
-* 🛒 **[Custom E-Commerce Setup](https://www.calldevx.tech/services/ecommerce-setup)** — Building high-conversion digital storefronts and payment flows.
+* 🌐 **[Full Website Build & Redesign](https://masad.dev/services/website-build-redesign)** — End-to-end development of modern, responsive web applications.
+* ⚙️ **[Backend & API Integrations](https://masad.dev/services/backend-api-integrations)** — Secure, scalable RESTful APIs using .NET Core and Node.js.
+* 🎨 **[Frontend UI/UX Development](https://masad.dev/services/frontend-ui-ux)** — Pixel-perfect, high-performance interfaces using React and Angular.
+* ⚡ **[Website Fixes & Optimization](https://masad.dev/services/fix-optimize-website)** — Resolving bugs, refactoring legacy code, and improving PageSpeed scores.
+* 🗄️ **[Database Design & Architecture](https://masad.dev/services/database-design)** — Optimized data modeling using SQL Server, PostgreSQL, and MongoDB.
+* 🛒 **[Custom E-Commerce Setup](https://masad.dev/services/ecommerce-setup)** — Building high-conversion digital storefronts and payment flows.
 
-> *Explore all my offerings on the **[Services Hub](https://www.calldevx.tech/services)** or view my past work in the **[Projects Portfolio](https://www.calldevx.tech/projects)**.*
+> *Explore all my offerings on the **[Services Hub](https://masad.dev/services)** or view my past work in the **[Projects Portfolio](https://masad.dev/projects)**.*
 
 ---
 
@@ -65,17 +65,17 @@ Whether you are an agency looking for an overflow developer or a business needin
 
 ## 🚀 Featured Engineering Projects
 
-### 🏠 [HomeEase](https://www.calldevx.tech/projects)
+### 🏠 [HomeEase](https://masad.dev/projects)
 > **Interactive Property Rental Platform**
 > Engineered a location-based property listing platform with dynamic mapping.
 > *Tech: MERN Stack, Mapbox, Cloud Storage*
 
-### 💬 [Real-time Chat Application](https://www.calldevx.tech/projects)
+### 💬 [Real-time Chat Application](https://masad.dev/projects)
 > **Low-Latency Messaging System**
 > Architected a scalable chat application supporting instant messaging and concurrent group chats.
 > *Tech: Next.js, Socket.io, MongoDB*
 
-### 🏆 [GiftLink AI – IBM Capstone](https://www.calldevx.tech/projects)
+### 🏆 [GiftLink AI – IBM Capstone](https://masad.dev/projects)
 > **AI-Powered Recommendation Engine**
 > Developed an award-winning NLP recommendation system deployed on IBM Cloud.
 > *Tech: Python, Machine Learning, IBM Cloud*
@@ -95,9 +95,9 @@ Whether you are an agency looking for an overflow developer or a business needin
 I am actively open to new opportunities, agency partnerships, and freelance contracts. If you need a developer who understands both clean code and business objectives, let's talk.
 
 <p align="center">
-  <b><a href="https://www.calldevx.tech/contact">Book a Strategy Call</a></b> • 
-  <b><a href="https://www.calldevx.tech/skills">Review My Full Skillset</a></b> • 
-  <b><a href="https://www.calldevx.tech/about">Read My Story</a></b>
+  <b><a href="https://masad.dev/contact">Book a Strategy Call</a></b> • 
+  <b><a href="https://masad.dev/skills">Review My Full Skillset</a></b> • 
+  <b><a href="https://masad.dev/about">Read My Story</a></b>
 </p>
 
 ---
