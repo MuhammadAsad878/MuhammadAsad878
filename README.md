@@ -11,7 +11,7 @@
   <a href="https://masad.dev" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-0A66C2?style=for-the-badge&color=2b3137" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/m-muhammad-asad" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-asad-web-developer/" target="_blank">
     <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="mailto:muhammadasad4041@gmail.com" target="_blank">
