@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Muhammad Asad</h1>
 <h3 align="center">
-  Full-Stack Software Engineer | .NET Core & MERN Stack Specialist
+  Full-Stack Software Engineer | MERN/MEAN/Python Specialist
 </h3>
 
 <p align="center">
@@ -26,7 +26,7 @@
 I am a **Full-Stack Developer** who bridges the gap between robust backend architecture and highly responsive frontend interfaces. Software houses and agencies rely on me to turn complex requirements into clean, maintainable, and production-ready code.
 
 💡 **My Engineering Focus:**
-- Architecting scalable APIs and microservices using `.NET Core` and `Node.js`.
+- Architecting scalable APIs and microservices using `Fast/Django and `Node.js`.
 - Developing high-conversion, interactive UIs with `React` and `Next.js`.
 - Integrating **AI-powered solutions** (like RAG and NLP) into traditional web applications.
 
@@ -53,9 +53,9 @@ Whether you are an agency looking for an overflow developer or a business needin
 
 | **Domain** | **Technologies & Tools** |
 |:--------------|:----------------|
-| 🟢 **MERN / JavaScript** | React, Next.js, Node.js, Express.js, MongoDB, TypeScript, Tailwind CSS |
-| 🔷 **.NET Ecosystem** | ASP.NET Core, .NET Web API, C#, Angular, Entity Framework, Dapper |
-| 🗄️ **Databases** | SQL Server (Stored Procedures), PostgreSQL, MongoDB |
+| 🟢 **MERN / JavaScript** | React, Next.js, Node.js, Express.js, MongoDB, TypeScript, Tailwind CSS 
+|    **Python**   | Fast / Django / AI Integrations / API Integrations / Tensorflow / Pytorch
+| 🗄️ **Databases** | SQL, MongoDB |
 | 🤖 **AI & Python** | Python, NLP, Retrieval-Augmented Generation (RAG) |
 | 🧰 **DevOps & Tools** | Git, GitHub, Docker, Postman, Swagger, Visual Studio |
 
@@ -86,7 +86,7 @@ Whether you are an agency looking for an overflow developer or a business needin
 
 - 🧩 **IBM Full-Stack JavaScript Developer** *(Professional Certificate)*
 - 🥇 **IBM GiftLink AI Capstone** — Award-winning AI project implementation
-- 💬 **10+ Full-Stack Applications Deployed** (MERN, .NET, Django)
+- 💬 **10+ Full-Stack Applications Deployed** (MERN, PERN, Django, Next.js / React.js)
 
 ---
 
