@@ -1,110 +1,129 @@
-<h1 align="center">👋 Hi, I'm Muhammad Asad</h1>
-<h3 align="center">
-  Full-Stack Software Engineer | MERN/MEAN/Python Specialist
-</h3>
+# Muhammad Asad | Full-Stack Developer & Automation Engineer
 
-<p align="center">
-  Building secure, scalable, and high-performance web applications for modern businesses.
+I build web applications, SaaS products, and business automations that solve real problems. My work combines full-stack development, backend systems, API integrations, and AI-powered workflows to help businesses simplify operations and build better digital products.
+
+🌐 **Portfolio:** [masad.dev](https://www.masad.dev)  
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/muhammad-asad-web-developer/)  
+📧 **Email:** [Contact me](mailto:muhammadasad4041@gmail.com)
+
+---
+
+## What I Work On
+
+- **Full-Stack Development:** Responsive websites, web applications, SaaS products, and business platforms.
+- **Backend & APIs:** Server-side applications, REST APIs, authentication, databases, and third-party integrations.
+- **AI-Powered Applications:** Practical AI features, intelligent tools, and automation-assisted workflows.
+- **Business Automation:** GoHighLevel, n8n, webhooks, lead management, CRM workflows, and appointment automation.
+
+My focus is on building reliable solutions that are maintainable, useful, and aligned with business goals.
+
+---
+
+## Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind" alt="Frontend technologies" />
 </p>
 
-<p align="center">
-  <a href="https://masad.dev" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-0A66C2?style=for-the-badge&color=2b3137" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-asad-web-developer/" target="_blank">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="mailto:muhammadasad4041@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge" alt="Email" />
-  </a>
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,java,cs,dotnet,postgres,mongodb,mysql,redis" alt="Backend and database technologies" />
+</p>
+
+### AI, Automation & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,linux,cloudflare,vercel" alt="Development tools" />
+</p>
+
+- **Automation:** GoHighLevel (GHL), n8n, Zapier, webhooks, API integrations
+- **AI Development:** AI APIs, LLM integrations, intelligent application workflows
+- **Video Automation:** Node.js, Puppeteer, FFmpeg, Redis, BullMQ
+
+---
+
+## Featured Projects
+
+### 1. Automated Video Rendering Studio
+A video automation system that turns structured content into rendered educational videos using a browser-based rendering pipeline and FFmpeg.
+
+- Automated video rendering with Node.js, Puppeteer, and FFmpeg
+- Timeline-driven animations and synchronized audio
+- Redis and BullMQ for background job processing
+- Built for repeatable, programmatic video production
+
+**Technologies:** Node.js · Puppeteer · FFmpeg · Redis · BullMQ · HTML · CSS
+
+### 2. HomeEase
+A full-stack application built around a practical home-services experience.
+
+- Full-stack application architecture
+- Mapbox integration for location-based features
+- Cloud storage integration
+- Frontend and backend development
+
+**Technologies:** MongoDB · Express.js · React · Node.js · Mapbox
+
+### 3. GiftLink AI
+An AI-focused application developed as part of my IBM learning and project work.
+
+- AI-powered application functionality
+- Python-based development
+- Integration of intelligent features into a user-facing application
+
+**Technologies:** Python · AI/ML · IBM Cloud
+
+---
+
+## Business Automation
+
+Alongside software development, I work on CRM systems and automated workflows that reduce repetitive tasks and improve lead handling.
+
+### Lead Capture & Appointment Workflows
+- Capture and organize incoming leads
+- Connect forms and landing pages with CRM pipelines
+- Automate follow-ups, notifications, and appointment reminders
+- Integrate third-party tools through webhooks and APIs
+
+### CRM & Workflow Automation
+- Build GoHighLevel workflows, triggers, and conditional branches
+- Connect lead sources with the appropriate CRM and follow-up process
+- Use n8n and API integrations to connect business tools
+- Improve workflow visibility and reduce manual administration
+
+My goal is to make automation practical: each workflow should support a clear business process.
+
+---
+
+## Currently Improving
+
+- Building and shipping full-stack applications
+- Designing reliable backend systems and API integrations
+- Developing practical AI-powered features
+- Connecting business tools with CRM and workflow automation
+- Improving deployment, performance, and maintainability
+
+---
+
+## GitHub Stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadAsad878&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAsad878&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## Let's Build Something Useful
 
-I am a **Full-Stack Developer** who bridges the gap between robust backend architecture and highly responsive frontend interfaces. Software houses and agencies rely on me to turn complex requirements into clean, maintainable, and production-ready code.
+Have a web application, SaaS idea, API integration, or business process you want to automate?
 
-💡 **My Engineering Focus:**
-- Architecting scalable APIs and microservices using `Fast/Django and `Node.js`.
-- Developing high-conversion, interactive UIs with `React` and `Next.js`.
-- Integrating **AI-powered solutions** (like RAG and NLP) into traditional web applications.
+I’m open to discussing projects where thoughtful engineering and practical automation can make a difference.
 
----
-
-## 🛠️ Specialized Services
-
-Whether you are an agency looking for an overflow developer or a business needing a complete solution, here is how I can help. *(Click to learn more)*
-
-* 🌐 **[Full Website Build & Redesign](https://masad.dev/services/website-build-redesign)** — End-to-end development of modern, responsive web applications.
-* ⚙️ **[Backend & API Integrations](https://masad.dev/services/backend-api-integrations)** — Secure, scalable RESTful APIs using .NET Core and Node.js.
-* 🎨 **[Frontend UI/UX Development](https://masad.dev/services/frontend-ui-ux)** — Pixel-perfect, high-performance interfaces using React and Angular.
-* ⚡ **[Website Fixes & Optimization](https://masad.dev/services/fix-optimize-website)** — Resolving bugs, refactoring legacy code, and improving PageSpeed scores.
-* 🗄️ **[Database Design & Architecture](https://masad.dev/services/database-design)** — Optimized data modeling using SQL Server, PostgreSQL, and MongoDB.
-* 🛒 **[Custom E-Commerce Setup](https://masad.dev/services/ecommerce-setup)** — Building high-conversion digital storefronts and payment flows.
-
-> *Explore all my offerings on the **[Services Hub](https://masad.dev/services)** or view my past work in the **[Projects Portfolio](https://masad.dev/projects)**.*
+**[Visit my portfolio](https://www.masad.dev) · [Connect on LinkedIn](https://www.linkedin.com/in/muhammad-asad-web-developer/) · [Email me](mailto:muhammadasad4041@gmail.com)**
 
 ---
-
-## ⚙️ Technical Arsenal
-
-<div align="center">
-
-| **Domain** | **Technologies & Tools** |
-|:--------------|:----------------|
-| 🟢 **MERN / JavaScript** | React, Next.js, Node.js, Express.js, MongoDB, TypeScript, Tailwind CSS 
-|    **Python**   | Fast / Django / AI Integrations / API Integrations / Tensorflow / Pytorch
-| 🗄️ **Databases** | SQL, MongoDB |
-| 🤖 **AI & Python** | Python, NLP, Retrieval-Augmented Generation (RAG) |
-| 🧰 **DevOps & Tools** | Git, GitHub, Docker, Postman, Swagger, Visual Studio |
-
-</div>
-
----
-
-## 🚀 Featured Engineering Projects
-
-### 🏠 [HomeEase](https://masad.dev/projects)
-> **Interactive Property Rental Platform**
-> Engineered a location-based property listing platform with dynamic mapping.
-> *Tech: MERN Stack, Mapbox, Cloud Storage*
-
-### 💬 [Real-time Chat Application](https://masad.dev/projects)
-> **Low-Latency Messaging System**
-> Architected a scalable chat application supporting instant messaging and concurrent group chats.
-> *Tech: Next.js, Socket.io, MongoDB*
-
-### 🏆 [GiftLink AI – IBM Capstone](https://masad.dev/projects)
-> **AI-Powered Recommendation Engine**
-> Developed an award-winning NLP recommendation system deployed on IBM Cloud.
-> *Tech: Python, Machine Learning, IBM Cloud*
-
----
-
-## 🎓 Certifications & Achievements
-
-- 🧩 **IBM Full-Stack JavaScript Developer** *(Professional Certificate)*
-- 🥇 **IBM GiftLink AI Capstone** — Award-winning AI project implementation
-- 💬 **10+ Full-Stack Applications Deployed** (MERN, PERN, Django, Next.js / React.js)
-
----
-
-## 🤝 Let’s Build Something Amazing
-
-I am actively open to new opportunities, agency partnerships, and freelance contracts. If you need a developer who understands both clean code and business objectives, let's talk.
 
 <p align="center">
-  <b><a href="https://masad.dev/contact">Book a Strategy Call</a></b> • 
-  <b><a href="https://masad.dev/skills">Review My Full Skillset</a></b> • 
-  <b><a href="https://masad.dev/about">Read My Story</a></b>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAsad878&show_icons=true&theme=transparent&hide_border=true&title_color=0A66C2&text_color=333333&icon_color=0A66C2" alt="Asad's GitHub Stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAsad878&theme=transparent&hide_border=true&title_color=0A66C2&text_color=333333&icon_color=0A66C2" alt="GitHub Streak" height="160" />
+  <i>Building practical software. Connecting systems. Automating work.</i>
 </p>
